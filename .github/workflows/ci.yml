@@ -18,8 +18,9 @@ jobs:
         with:
           java-version: '21'
           distribution: 'corretto'
+          cache: maven
 
       - name: Build and test with Maven
         run: |
           cd backend
-          ./mvnw clean verify
+          ./mvn clean verify
