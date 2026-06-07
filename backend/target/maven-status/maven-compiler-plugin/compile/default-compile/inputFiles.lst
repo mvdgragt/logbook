@@ -1,0 +1,11 @@
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/BackendApplication.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/config/SecurityConfig.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/controller/CarController.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/controller/HealthController.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/controller/TripController.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/model/Car.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/model/Trip.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/model/User.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/repository/CarRepository.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/repository/TripRepository.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/repository/UserRepository.java
