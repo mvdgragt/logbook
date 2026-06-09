@@ -1,10 +1,17 @@
+se/logbook/backend/service/CarService.class
 se/logbook/backend/repository/CarRepository.class
 se/logbook/backend/repository/TripRepository.class
+se/logbook/backend/model/AuthRequest.class
 se/logbook/backend/model/Trip.class
+se/logbook/backend/controller/AuthController.class
 se/logbook/backend/model/User.class
+se/logbook/backend/service/AuthService.class
 se/logbook/backend/config/SecurityConfig.class
 se/logbook/backend/controller/CarController.class
 se/logbook/backend/model/Car.class
+se/logbook/backend/model/AuthResponse.class
+se/logbook/backend/service/TripService.class
 se/logbook/backend/repository/UserRepository.class
 se/logbook/backend/BackendApplication.class
+se/logbook/backend/service/JwtService.class
 se/logbook/backend/controller/TripController.class

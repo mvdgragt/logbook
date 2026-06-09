@@ -1,6 +1,14 @@
-import { Link, Outlet } from '@tanstack/react-router'
+import { Link, Outlet, useNavigate } from '@tanstack/react-router'
 
 export function Layout() {
+    const navigate = useNavigate()
+    const token = localStorage.getItem('token')
+
+    const handleLogout = () => {
+        localStorage.removeItem('token')
+        navigate({ to: '/login' })
+    }
+
     return (
         <div>
             <nav style={{
@@ -34,6 +42,21 @@ export function Layout() {
                 >
                     Körningar
                 </Link>
+                {token ? (
+                    <button
+                        onClick={handleLogout}
+                        style={{ color: 'white', background: 'none', border: 'none', cursor: 'pointer', marginLeft: 'auto' }}
+                    >
+                        Logga ut
+                    </button>
+                ) : (
+                    <Link
+                        to="/login"
+                        style={{ color: 'white', textDecoration: 'none', marginLeft: 'auto' }}
+                    >
+                        Logga in
+                    </Link>
+                )}
             </nav>
             <main style={{ padding: '2rem' }}>
                 <Outlet />
