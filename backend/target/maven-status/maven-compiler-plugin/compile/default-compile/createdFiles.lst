@@ -1,12 +1,12 @@
+se/logbook/backend/service/CarService.class
 se/logbook/backend/repository/CarRepository.class
 se/logbook/backend/repository/TripRepository.class
 se/logbook/backend/model/Trip.class
-se/logbook/backend/controller/TripController$TripRequest.class
 se/logbook/backend/model/User.class
 se/logbook/backend/config/SecurityConfig.class
 se/logbook/backend/controller/CarController.class
 se/logbook/backend/model/Car.class
-se/logbook/backend/controller/HealthController.class
+se/logbook/backend/service/TripService.class
 se/logbook/backend/repository/UserRepository.class
 se/logbook/backend/BackendApplication.class
 se/logbook/backend/controller/TripController.class

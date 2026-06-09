@@ -1,2 +1,3 @@
-se/logbook/backend/integration/ApiIntegrationTest.class
+se/logbook/backend/controller/CarControllerTest.class
 se/logbook/backend/BackendApplicationTests.class
+se/logbook/backend/controller/TripControllerTest.class
