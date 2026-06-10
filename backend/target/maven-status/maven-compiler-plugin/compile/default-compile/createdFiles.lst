@@ -3,19 +3,15 @@ se/logbook/backend/repository/CarRepository.class
 se/logbook/backend/repository/TripRepository.class
 se/logbook/backend/model/AuthRequest.class
 se/logbook/backend/model/Trip.class
-<<<<<<< HEAD
-=======
+se/logbook/backend/service/UserDetailsServiceImpl.class
 se/logbook/backend/controller/AuthController.class
->>>>>>> main
 se/logbook/backend/model/User.class
 se/logbook/backend/service/AuthService.class
+se/logbook/backend/config/JwtAuthFilter.class
 se/logbook/backend/config/SecurityConfig.class
 se/logbook/backend/controller/CarController.class
 se/logbook/backend/model/Car.class
-<<<<<<< HEAD
-=======
 se/logbook/backend/model/AuthResponse.class
->>>>>>> main
 se/logbook/backend/service/TripService.class
 se/logbook/backend/repository/UserRepository.class
 se/logbook/backend/BackendApplication.class
