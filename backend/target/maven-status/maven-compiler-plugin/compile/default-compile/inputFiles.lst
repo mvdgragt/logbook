@@ -1,4 +1,5 @@
 /Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/BackendApplication.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/config/JwtAuthFilter.java
 /Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/config/SecurityConfig.java
 /Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/controller/AuthController.java
 /Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/controller/CarController.java
@@ -15,3 +16,4 @@
 /Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/service/CarService.java
 /Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/service/JwtService.java
 /Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/service/TripService.java
+/Users/mvdgragt/logbook/backend/src/main/java/se/logbook/backend/service/UserDetailsServiceImpl.java
