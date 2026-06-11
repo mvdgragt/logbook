@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+se/logbook/backend/service/AuthServiceTest.class
 se/logbook/backend/controller/CarControllerTest.class
-=======
->>>>>>> main
 se/logbook/backend/BackendApplicationTests.class
 se/logbook/backend/controller/TripControllerTest.class

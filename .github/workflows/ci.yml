@@ -23,3 +23,11 @@ jobs:
       - name: Build and test with Maven
         working-directory: backend
         run: mvn clean verify
+
+      - name: Publish test results
+        uses: dorny/test-reporter@v1
+        if: always()
+        with:
+          name: JUnit Tests
+          path: backend/target/surefire-reports/*.xml
+          reporter: java-junit
