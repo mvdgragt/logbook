@@ -1,6 +1,4 @@
 /Users/mvdgragt/logbook/backend/src/test/java/se/logbook/backend/BackendApplicationTests.java
-<<<<<<< HEAD
 /Users/mvdgragt/logbook/backend/src/test/java/se/logbook/backend/controller/CarControllerTest.java
 /Users/mvdgragt/logbook/backend/src/test/java/se/logbook/backend/controller/TripControllerTest.java
-=======
->>>>>>> main
+/Users/mvdgragt/logbook/backend/src/test/java/se/logbook/backend/service/AuthServiceTest.java
